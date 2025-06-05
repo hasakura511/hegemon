@@ -1,3 +1,4 @@
+
 # Civ 8 - Hegemon AI Prototype (Phase 2)
 # Simulates Dalio Power Pillars, influence, and simple hegemonic actions
 
@@ -239,6 +240,7 @@ def main():
             break
         if not take_turn(command, player, opponent):
             break
+
 
 if __name__ == "__main__":
     main()
