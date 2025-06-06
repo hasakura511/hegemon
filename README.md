@@ -1,11 +1,13 @@
 # Hegemon Prototype
 
-This repository contains a prototype for **Civ 8 - Hegemon AI**. It now models two civilizations (the Player and Neo-Rome) and introduces simplified hegemonic objectives and actions.
-=======
-
-
-## Running
-
+This repository contains a prototype for **Civ 8 - Hegemon AI**. It now models a player civilization and multiple AI opponents, complete with objectives, events, and a simple opponent turn system.
+- `status`
+- `objectives`
+- `invest innovation & tech leadership`
+- `broadcast neo-rome`
+- `trade vultari`
+- `military neo-rome`
+- `end`
 Ensure you have Python 3 installed and run:
 
 ```bash
